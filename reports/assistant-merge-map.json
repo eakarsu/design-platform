@@ -1,0 +1,399 @@
+[
+  {
+    "id": "ai-documents",
+    "title": "Writing, documents & knowledge",
+    "group": "AI assistants",
+    "path": "/assistants/ai-documents",
+    "featureIds": [
+      "notes",
+      "documents",
+      "templates"
+    ],
+    "ai": true,
+    "representativeId": "notes",
+    "description": "One assistant for 3 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "notes",
+        "title": "Notes",
+        "originalPath": "/features/notes"
+      },
+      {
+        "id": "documents",
+        "title": "Documents",
+        "originalPath": "/features/documents"
+      },
+      {
+        "id": "templates",
+        "title": "Templates",
+        "originalPath": "/features/templates"
+      }
+    ]
+  },
+  {
+    "id": "ai-general",
+    "title": "General assistance",
+    "group": "AI assistants",
+    "path": "/assistants/ai-general",
+    "featureIds": [
+      "api-scene-generator",
+      "outfits",
+      "moodboards",
+      "bodytype",
+      "upscaler",
+      "variation-generator",
+      "active-prompt-improvement-ai-only",
+      "shopping",
+      "occasion",
+      "capsule",
+      "packing",
+      "artryon",
+      "outfit-generator",
+      "sustainability-tracking",
+      "the-aiadvanced-js-and-ai-js-stubs-need-real-implem",
+      "ai-photo-enhancement-pipeline",
+      "all-the-ai",
+      "limited-analytics-photo-performance-tracking"
+    ],
+    "ai": true,
+    "representativeId": "api-scene-generator",
+    "description": "One assistant for 18 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "api-scene-generator",
+        "title": "AI 3D Scene Generator",
+        "originalPath": "/features/api-scene-generator"
+      },
+      {
+        "id": "outfits",
+        "title": "AI Outfit Generator",
+        "originalPath": "/features/outfits"
+      },
+      {
+        "id": "moodboards",
+        "title": "Mood Board Generator",
+        "originalPath": "/features/moodboards"
+      },
+      {
+        "id": "bodytype",
+        "title": "Body Type Stylist",
+        "originalPath": "/features/bodytype"
+      },
+      {
+        "id": "upscaler",
+        "title": "AI Upscaler",
+        "originalPath": "/features/upscaler"
+      },
+      {
+        "id": "variation-generator",
+        "title": "Variation Generator",
+        "originalPath": "/features/variation-generator"
+      },
+      {
+        "id": "active-prompt-improvement-ai-only",
+        "title": "active prompt improvement ai only",
+        "originalPath": "/features/active-prompt-improvement-ai-only"
+      },
+      {
+        "id": "shopping",
+        "title": "Shopping Lists",
+        "originalPath": "/features/shopping"
+      },
+      {
+        "id": "occasion",
+        "title": "Occasion Outfit Suggest",
+        "originalPath": "/features/occasion"
+      },
+      {
+        "id": "capsule",
+        "title": "Capsule Wardrobe",
+        "originalPath": "/features/capsule"
+      },
+      {
+        "id": "packing",
+        "title": "Packing List",
+        "originalPath": "/features/packing"
+      },
+      {
+        "id": "artryon",
+        "title": "AR Try-On Prepare",
+        "originalPath": "/features/artryon"
+      },
+      {
+        "id": "outfit-generator",
+        "title": "Outfit generator",
+        "originalPath": "/features/outfit-generator"
+      },
+      {
+        "id": "sustainability-tracking",
+        "title": "sustainability tracking",
+        "originalPath": "/features/sustainability-tracking"
+      },
+      {
+        "id": "the-aiadvanced-js-and-ai-js-stubs-need-real-implem",
+        "title": "the aiadvanced js and ai js stubs need real implem",
+        "originalPath": "/features/the-aiadvanced-js-and-ai-js-stubs-need-real-implem"
+      },
+      {
+        "id": "ai-photo-enhancement-pipeline",
+        "title": "ai photo enhancement pipeline",
+        "originalPath": "/features/ai-photo-enhancement-pipeline"
+      },
+      {
+        "id": "all-the-ai",
+        "title": "all the ai",
+        "originalPath": "/features/all-the-ai"
+      },
+      {
+        "id": "limited-analytics-photo-performance-tracking",
+        "title": "limited analytics photo performance tracking",
+        "originalPath": "/features/limited-analytics-photo-performance-tracking"
+      }
+    ]
+  },
+  {
+    "id": "ai-insights",
+    "title": "Insights & recommendations",
+    "group": "AI assistants",
+    "path": "/assistants/ai-insights",
+    "featureIds": [
+      "styles",
+      "trends",
+      "personal-color",
+      "prompt-optimizer",
+      "sustainability-scoring-tracking-carbon-f",
+      "trend-style-prediction-for-early-adoptio",
+      "trend-forecaster-endpoint",
+      "room-layout-optimizer",
+      "sustainability-scoring-ai",
+      "color-analysis",
+      "trend",
+      "sustain",
+      "photo",
+      "seasonal-analysis",
+      "recommendations",
+      "color-analysis-without-skin",
+      "size-fit-tracking-for-new-purchase-recommendati",
+      "insights",
+      "photo-analysis",
+      "batch-analysis",
+      "size-recommender",
+      "return-predictor"
+    ],
+    "ai": true,
+    "representativeId": "styles",
+    "description": "One assistant for 22 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "styles",
+        "title": "Style Analyzer",
+        "originalPath": "/features/styles"
+      },
+      {
+        "id": "trends",
+        "title": "Trend Forecaster",
+        "originalPath": "/features/trends"
+      },
+      {
+        "id": "personal-color",
+        "title": "Personal Color Analysis",
+        "originalPath": "/features/personal-color"
+      },
+      {
+        "id": "prompt-optimizer",
+        "title": "Prompt Optimizer",
+        "originalPath": "/features/prompt-optimizer"
+      },
+      {
+        "id": "sustainability-scoring-tracking-carbon-f",
+        "title": "sustainability scoring tracking carbon f",
+        "originalPath": "/features/sustainability-scoring-tracking-carbon-f"
+      },
+      {
+        "id": "trend-style-prediction-for-early-adoptio",
+        "title": "trend style prediction for early adoptio",
+        "originalPath": "/features/trend-style-prediction-for-early-adoptio"
+      },
+      {
+        "id": "trend-forecaster-endpoint",
+        "title": "trend forecaster endpoint",
+        "originalPath": "/features/trend-forecaster-endpoint"
+      },
+      {
+        "id": "room-layout-optimizer",
+        "title": "room layout optimizer",
+        "originalPath": "/features/room-layout-optimizer"
+      },
+      {
+        "id": "sustainability-scoring-ai",
+        "title": "sustainability scoring ai",
+        "originalPath": "/features/sustainability-scoring-ai"
+      },
+      {
+        "id": "color-analysis",
+        "title": "Color Analysis",
+        "originalPath": "/features/color-analysis"
+      },
+      {
+        "id": "trend",
+        "title": "Trend Forecast",
+        "originalPath": "/features/trend"
+      },
+      {
+        "id": "sustain",
+        "title": "Sustainability Score",
+        "originalPath": "/features/sustain"
+      },
+      {
+        "id": "photo",
+        "title": "Photo Outfit Analyze",
+        "originalPath": "/features/photo"
+      },
+      {
+        "id": "seasonal-analysis",
+        "title": "Seasonal analysis",
+        "originalPath": "/features/seasonal-analysis"
+      },
+      {
+        "id": "recommendations",
+        "title": "Recommendations",
+        "originalPath": "/features/recommendations"
+      },
+      {
+        "id": "color-analysis-without-skin",
+        "title": "color analysis without skin",
+        "originalPath": "/features/color-analysis-without-skin"
+      },
+      {
+        "id": "size-fit-tracking-for-new-purchase-recommendati",
+        "title": "size fit tracking for new purchase recommendati",
+        "originalPath": "/features/size-fit-tracking-for-new-purchase-recommendati"
+      },
+      {
+        "id": "insights",
+        "title": "Insights",
+        "originalPath": "/features/insights"
+      },
+      {
+        "id": "photo-analysis",
+        "title": "Photo Analysis AI",
+        "originalPath": "/features/photo-analysis"
+      },
+      {
+        "id": "batch-analysis",
+        "title": "Batch Analysis",
+        "originalPath": "/features/batch-analysis"
+      },
+      {
+        "id": "size-recommender",
+        "title": "Size Recommender",
+        "originalPath": "/features/size-recommender"
+      },
+      {
+        "id": "return-predictor",
+        "title": "Return Predictor",
+        "originalPath": "/features/return-predictor"
+      }
+    ]
+  },
+  {
+    "id": "ai-creative",
+    "title": "Creative & design",
+    "group": "AI assistants",
+    "path": "/assistants/ai-creative",
+    "featureIds": [
+      "agentic-creative-assistant-auto-generati",
+      "social"
+    ],
+    "ai": true,
+    "representativeId": "agentic-creative-assistant-auto-generati",
+    "description": "One assistant for 2 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "agentic-creative-assistant-auto-generati",
+        "title": "agentic creative assistant auto generati",
+        "originalPath": "/features/agentic-creative-assistant-auto-generati"
+      },
+      {
+        "id": "social",
+        "title": "Style Collab Post",
+        "originalPath": "/features/social"
+      }
+    ]
+  },
+  {
+    "id": "ai-growth",
+    "title": "Marketing & customer growth",
+    "group": "AI assistants",
+    "path": "/assistants/ai-growth",
+    "featureIds": [
+      "brand-consistency-guardrails-enforcing-u",
+      "ailogo-brand-kit-generator"
+    ],
+    "ai": true,
+    "representativeId": "brand-consistency-guardrails-enforcing-u",
+    "description": "One assistant for 2 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "brand-consistency-guardrails-enforcing-u",
+        "title": "brand consistency guardrails enforcing u",
+        "originalPath": "/features/brand-consistency-guardrails-enforcing-u"
+      },
+      {
+        "id": "ailogo-brand-kit-generator",
+        "title": "Logo brand kit generator work",
+        "originalPath": "/features/ailogo-brand-kit-generator"
+      }
+    ]
+  },
+  {
+    "id": "ai-quality",
+    "title": "Risk, quality & compliance",
+    "group": "AI assistants",
+    "path": "/assistants/ai-quality",
+    "featureIds": [
+      "accessibility-recommender",
+      "quality-assessment",
+      "return-risk-prediction"
+    ],
+    "ai": true,
+    "representativeId": "accessibility-recommender",
+    "description": "One assistant for 3 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "accessibility-recommender",
+        "title": "accessibility recommender",
+        "originalPath": "/features/accessibility-recommender"
+      },
+      {
+        "id": "quality-assessment",
+        "title": "Quality Assessment",
+        "originalPath": "/features/quality-assessment"
+      },
+      {
+        "id": "return-risk-prediction",
+        "title": "return risk prediction",
+        "originalPath": "/features/return-risk-prediction"
+      }
+    ]
+  },
+  {
+    "id": "ai-finance",
+    "title": "Finance & reconciliation",
+    "group": "AI assistants",
+    "path": "/assistants/ai-finance",
+    "featureIds": [
+      "retailer"
+    ],
+    "ai": true,
+    "representativeId": "retailer",
+    "description": "One assistant for 1 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "retailer",
+        "title": "Retailer Price Track",
+        "originalPath": "/features/retailer"
+      }
+    ]
+  }
+]

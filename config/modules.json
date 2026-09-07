@@ -1,0 +1,50 @@
+[
+  {
+    "id": "AI3DSpatial",
+    "name": "3 dspatial",
+    "sourceProject": "AI3DSpatial",
+    "services": []
+  },
+  {
+    "id": "AIFashionDesigner",
+    "name": "Fashion designer",
+    "sourceProject": "AIFashionDesigner",
+    "services": []
+  },
+  {
+    "id": "AiImageGeneration",
+    "name": "Image generation",
+    "sourceProject": "AiImageGeneration",
+    "services": []
+  },
+  {
+    "id": "AiInteriorDesign",
+    "name": "Interior design",
+    "sourceProject": "AiInteriorDesign",
+    "services": []
+  },
+  {
+    "id": "AILogoBrandKitGenerator",
+    "name": "Logo brand kit generator",
+    "sourceProject": "AILogoBrandKitGenerator",
+    "services": []
+  },
+  {
+    "id": "AIPersonalStylist",
+    "name": "Personal stylist",
+    "sourceProject": "AIPersonalStylist",
+    "services": []
+  },
+  {
+    "id": "AIPersonalWardrobeOrganizer",
+    "name": "Personal wardrobe organizer",
+    "sourceProject": "AIPersonalWardrobeOrganizer",
+    "services": []
+  },
+  {
+    "id": "AIProductPhotoEnhancer",
+    "name": "Product photo enhancer",
+    "sourceProject": "AIProductPhotoEnhancer",
+    "services": []
+  }
+]

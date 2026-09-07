@@ -1,0 +1,31 @@
+{
+  "id": "design-platform",
+  "title": "Design, fashion & visual assets",
+  "buyer": "Designers and creative studios",
+  "sourceCount": 8,
+  "sources": [
+    "AI3DSpatial",
+    "AIFashionDesigner",
+    "AiImageGeneration",
+    "AiInteriorDesign",
+    "AILogoBrandKitGenerator",
+    "AIPersonalStylist",
+    "AIPersonalWardrobeOrganizer",
+    "AIProductPhotoEnhancer"
+  ],
+  "status": "proposed build; not implemented",
+  "canonicalFeatureStatus": "Requires feature-level mapping and workflow migration; source route counts are not feature-completion counts.",
+  "port": 46050,
+  "productName": "Design, fashion Workspace",
+  "runtimeVersion": "1.0.0",
+  "sourceRoots": [
+    "/Volumes/external/projects/AI3DSpatial",
+    "/Volumes/external/projects/AIFashionDesigner",
+    "/Volumes/external/projects/AiImageGeneration",
+    "/Volumes/external/projects/AiInteriorDesign",
+    "/Volumes/external/projects/AILogoBrandKitGenerator",
+    "/Volumes/external/projects/AIPersonalStylist",
+    "/Volumes/external/projects/AIPersonalWardrobeOrganizer",
+    "/Volumes/external/projects/AIProductPhotoEnhancer"
+  ]
+}

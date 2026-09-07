@@ -1,0 +1,1815 @@
+{
+  "mapped": [
+    {
+      "project": "AI3DSpatial",
+      "sourceKey": "/api/models3d",
+      "source": "/Volumes/external/projects/AI3DSpatial/client/src/config/features.js",
+      "canonical": "api-models3d",
+      "kind": "definition"
+    },
+    {
+      "project": "AI3DSpatial",
+      "sourceKey": "/api/ar-scenes",
+      "source": "/Volumes/external/projects/AI3DSpatial/client/src/config/features.js",
+      "canonical": "api-ar-scenes",
+      "kind": "definition"
+    },
+    {
+      "project": "AI3DSpatial",
+      "sourceKey": "/api/vr-environments",
+      "source": "/Volumes/external/projects/AI3DSpatial/client/src/config/features.js",
+      "canonical": "api-vr-environments",
+      "kind": "definition"
+    },
+    {
+      "project": "AI3DSpatial",
+      "sourceKey": "/api/textures",
+      "source": "/Volumes/external/projects/AI3DSpatial/client/src/config/features.js",
+      "canonical": "api-textures",
+      "kind": "definition"
+    },
+    {
+      "project": "AI3DSpatial",
+      "sourceKey": "/api/animations",
+      "source": "/Volumes/external/projects/AI3DSpatial/client/src/config/features.js",
+      "canonical": "api-animations",
+      "kind": "definition"
+    },
+    {
+      "project": "AI3DSpatial",
+      "sourceKey": "/api/point-clouds",
+      "source": "/Volumes/external/projects/AI3DSpatial/client/src/config/features.js",
+      "canonical": "api-point-clouds",
+      "kind": "definition"
+    },
+    {
+      "project": "AI3DSpatial",
+      "sourceKey": "/api/mesh-optimization",
+      "source": "/Volumes/external/projects/AI3DSpatial/client/src/config/features.js",
+      "canonical": "api-mesh-optimization",
+      "kind": "definition"
+    },
+    {
+      "project": "AI3DSpatial",
+      "sourceKey": "/api/spatial-mapping",
+      "source": "/Volumes/external/projects/AI3DSpatial/client/src/config/features.js",
+      "canonical": "api-spatial-mapping",
+      "kind": "definition"
+    },
+    {
+      "project": "AI3DSpatial",
+      "sourceKey": "/api/object-detection",
+      "source": "/Volumes/external/projects/AI3DSpatial/client/src/config/features.js",
+      "canonical": "api-object-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "AI3DSpatial",
+      "sourceKey": "/api/scene-reconstruction",
+      "source": "/Volumes/external/projects/AI3DSpatial/client/src/config/features.js",
+      "canonical": "api-scene-reconstruction",
+      "kind": "definition"
+    },
+    {
+      "project": "AI3DSpatial",
+      "sourceKey": "/api/materials",
+      "source": "/Volumes/external/projects/AI3DSpatial/client/src/config/features.js",
+      "canonical": "api-materials",
+      "kind": "definition"
+    },
+    {
+      "project": "AI3DSpatial",
+      "sourceKey": "/api/asset-library",
+      "source": "/Volumes/external/projects/AI3DSpatial/client/src/config/features.js",
+      "canonical": "api-asset-library",
+      "kind": "definition"
+    },
+    {
+      "project": "AI3DSpatial",
+      "sourceKey": "/api/holographic",
+      "source": "/Volumes/external/projects/AI3DSpatial/client/src/config/features.js",
+      "canonical": "api-holographic",
+      "kind": "definition"
+    },
+    {
+      "project": "AI3DSpatial",
+      "sourceKey": "/api/spatial-audio",
+      "source": "/Volumes/external/projects/AI3DSpatial/client/src/config/features.js",
+      "canonical": "api-spatial-audio",
+      "kind": "definition"
+    },
+    {
+      "project": "AI3DSpatial",
+      "sourceKey": "/api/scene-generator",
+      "source": "/Volumes/external/projects/AI3DSpatial/client/src/config/features.js",
+      "canonical": "api-scene-generator",
+      "kind": "definition"
+    },
+    {
+      "project": "AI3DSpatial",
+      "sourceKey": "/api/digital-twins",
+      "source": "/Volumes/external/projects/AI3DSpatial/client/src/config/features.js",
+      "canonical": "api-digital-twins",
+      "kind": "definition"
+    },
+    {
+      "project": "AI3DSpatial",
+      "sourceKey": "advisors",
+      "source": "/Volumes/external/projects/AI3DSpatial",
+      "canonical": "advisors",
+      "kind": "route"
+    },
+    {
+      "project": "AIFashionDesigner",
+      "sourceKey": "outfits",
+      "source": "/Volumes/external/projects/AIFashionDesigner/frontend/src/pages/Dashboard.js",
+      "canonical": "outfits",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFashionDesigner",
+      "sourceKey": "styles",
+      "source": "/Volumes/external/projects/AIFashionDesigner/frontend/src/pages/Dashboard.js",
+      "canonical": "styles",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFashionDesigner",
+      "sourceKey": "colors",
+      "source": "/Volumes/external/projects/AIFashionDesigner/frontend/src/pages/Dashboard.js",
+      "canonical": "colors",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFashionDesigner",
+      "sourceKey": "trends",
+      "source": "/Volumes/external/projects/AIFashionDesigner/frontend/src/pages/Dashboard.js",
+      "canonical": "trends",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFashionDesigner",
+      "sourceKey": "wardrobe",
+      "source": "/Volumes/external/projects/AIFashionDesigner/frontend/src/pages/Dashboard.js",
+      "canonical": "wardrobe",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFashionDesigner",
+      "sourceKey": "ratings",
+      "source": "/Volumes/external/projects/AIFashionDesigner/frontend/src/pages/Dashboard.js",
+      "canonical": "ratings",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFashionDesigner",
+      "sourceKey": "moodboards",
+      "source": "/Volumes/external/projects/AIFashionDesigner/frontend/src/pages/Dashboard.js",
+      "canonical": "moodboards",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFashionDesigner",
+      "sourceKey": "stylist",
+      "source": "/Volumes/external/projects/AIFashionDesigner/frontend/src/pages/Dashboard.js",
+      "canonical": "stylist",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFashionDesigner",
+      "sourceKey": "fabrics",
+      "source": "/Volumes/external/projects/AIFashionDesigner/frontend/src/pages/Dashboard.js",
+      "canonical": "fabrics",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFashionDesigner",
+      "sourceKey": "seasonal",
+      "source": "/Volumes/external/projects/AIFashionDesigner/frontend/src/pages/Dashboard.js",
+      "canonical": "seasonal",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFashionDesigner",
+      "sourceKey": "bodytype",
+      "source": "/Volumes/external/projects/AIFashionDesigner/frontend/src/pages/Dashboard.js",
+      "canonical": "bodytype",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFashionDesigner",
+      "sourceKey": "accessories",
+      "source": "/Volumes/external/projects/AIFashionDesigner/frontend/src/pages/Dashboard.js",
+      "canonical": "accessories",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFashionDesigner",
+      "sourceKey": "sustainable",
+      "source": "/Volumes/external/projects/AIFashionDesigner/frontend/src/pages/Dashboard.js",
+      "canonical": "sustainable",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFashionDesigner",
+      "sourceKey": "celebrity",
+      "source": "/Volumes/external/projects/AIFashionDesigner/frontend/src/pages/Dashboard.js",
+      "canonical": "celebrity",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFashionDesigner",
+      "sourceKey": "wardrobe-audit",
+      "source": "/Volumes/external/projects/AIFashionDesigner/frontend/src/pages/Dashboard.js",
+      "canonical": "wardrobe-audit",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFashionDesigner",
+      "sourceKey": "personal-color",
+      "source": "/Volumes/external/projects/AIFashionDesigner/frontend/src/pages/Dashboard.js",
+      "canonical": "personal-color",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFashionDesigner",
+      "sourceKey": "fit-return-risk",
+      "source": "/Volumes/external/projects/AIFashionDesigner/frontend/src/pages/Dashboard.js",
+      "canonical": "fit-return-risk",
+      "kind": "definition"
+    },
+    {
+      "project": "AiImageGeneration",
+      "sourceKey": "/generate",
+      "source": "/Volumes/external/projects/AiImageGeneration/frontend/src/components/Sidebar.jsx",
+      "canonical": "generate",
+      "kind": "definition"
+    },
+    {
+      "project": "AiImageGeneration",
+      "sourceKey": "/gallery",
+      "source": "/Volumes/external/projects/AiImageGeneration/frontend/src/components/Sidebar.jsx",
+      "canonical": "gallery",
+      "kind": "definition"
+    },
+    {
+      "project": "AiImageGeneration",
+      "sourceKey": "/prompts",
+      "source": "/Volumes/external/projects/AiImageGeneration/frontend/src/components/Sidebar.jsx",
+      "canonical": "prompts",
+      "kind": "definition"
+    },
+    {
+      "project": "AiImageGeneration",
+      "sourceKey": "/styles",
+      "source": "/Volumes/external/projects/AiImageGeneration/frontend/src/components/Sidebar.jsx",
+      "canonical": "styles",
+      "kind": "definition"
+    },
+    {
+      "project": "AiImageGeneration",
+      "sourceKey": "/prompt-optimizer",
+      "source": "/Volumes/external/projects/AiImageGeneration/frontend/src/components/Sidebar.jsx",
+      "canonical": "prompt-optimizer",
+      "kind": "definition"
+    },
+    {
+      "project": "AiImageGeneration",
+      "sourceKey": "/art-instructor",
+      "source": "/Volumes/external/projects/AiImageGeneration/frontend/src/components/Sidebar.jsx",
+      "canonical": "art-instructor",
+      "kind": "definition"
+    },
+    {
+      "project": "AiImageGeneration",
+      "sourceKey": "/style-transfer",
+      "source": "/Volumes/external/projects/AiImageGeneration/frontend/src/components/Sidebar.jsx",
+      "canonical": "style-transfer",
+      "kind": "definition"
+    },
+    {
+      "project": "AiImageGeneration",
+      "sourceKey": "/upscaler",
+      "source": "/Volumes/external/projects/AiImageGeneration/frontend/src/components/Sidebar.jsx",
+      "canonical": "upscaler",
+      "kind": "definition"
+    },
+    {
+      "project": "AiImageGeneration",
+      "sourceKey": "/variation-generator",
+      "source": "/Volumes/external/projects/AiImageGeneration/frontend/src/components/Sidebar.jsx",
+      "canonical": "variation-generator",
+      "kind": "definition"
+    },
+    {
+      "project": "AiImageGeneration",
+      "sourceKey": "/brand-asset-creator",
+      "source": "/Volumes/external/projects/AiImageGeneration/frontend/src/components/Sidebar.jsx",
+      "canonical": "brand-asset-creator",
+      "kind": "definition"
+    },
+    {
+      "project": "AiImageGeneration",
+      "sourceKey": "/styles",
+      "source": "/Volumes/external/projects/AiImageGeneration/frontend/src/pages/Dashboard.jsx",
+      "canonical": "styles",
+      "kind": "definition"
+    },
+    {
+      "project": "AiImageGeneration",
+      "sourceKey": "cf-agentic-creative-assistant-auto-generati",
+      "source": "/Volumes/external/projects/AiImageGeneration",
+      "canonical": "agentic-creative-assistant-auto-generati",
+      "kind": "route"
+    },
+    {
+      "project": "AiImageGeneration",
+      "sourceKey": "cf-batch-generation-scheduling-for-weekly-s",
+      "source": "/Volumes/external/projects/AiImageGeneration",
+      "canonical": "batch-generation-scheduling-for-weekly-s",
+      "kind": "route"
+    },
+    {
+      "project": "AiImageGeneration",
+      "sourceKey": "cf-prompt-learning-from-user-history-with",
+      "source": "/Volumes/external/projects/AiImageGeneration",
+      "canonical": "prompt-learning-from-user-history-with",
+      "kind": "route"
+    },
+    {
+      "project": "AiImageGeneration",
+      "sourceKey": "cf-image-marketplace-licensing-with-drm-and",
+      "source": "/Volumes/external/projects/AiImageGeneration",
+      "canonical": "image-marketplace-licensing-with-drm-and",
+      "kind": "route"
+    },
+    {
+      "project": "AiImageGeneration",
+      "sourceKey": "cf-brand-consistency-guardrails-enforcing-u",
+      "source": "/Volumes/external/projects/AiImageGeneration",
+      "canonical": "brand-consistency-guardrails-enforcing-u",
+      "kind": "route"
+    },
+    {
+      "project": "AiImageGeneration",
+      "sourceKey": "cf-multimodal-refinement-combining-referenc",
+      "source": "/Volumes/external/projects/AiImageGeneration",
+      "canonical": "multimodal-refinement-combining-referenc",
+      "kind": "route"
+    },
+    {
+      "project": "AiImageGeneration",
+      "sourceKey": "gap-no-live-generate-image-endpoint-only",
+      "source": "/Volumes/external/projects/AiImageGeneration",
+      "canonical": "live-generate-image-endpoint-only",
+      "kind": "route"
+    },
+    {
+      "project": "AiImageGeneration",
+      "sourceKey": "gap-no-active-prompt-improvement-ai-only",
+      "source": "/Volumes/external/projects/AiImageGeneration",
+      "canonical": "active-prompt-improvement-ai-only",
+      "kind": "route"
+    },
+    {
+      "project": "AiImageGeneration",
+      "sourceKey": "gap-no-real-style-transfer-execution",
+      "source": "/Volumes/external/projects/AiImageGeneration",
+      "canonical": "real-style-transfer-execution",
+      "kind": "route"
+    },
+    {
+      "project": "AiImageGeneration",
+      "sourceKey": "gap-no-upscaling-execution",
+      "source": "/Volumes/external/projects/AiImageGeneration",
+      "canonical": "upscaling-execution",
+      "kind": "route"
+    },
+    {
+      "project": "AiImageGeneration",
+      "sourceKey": "gap-no-variation-execution",
+      "source": "/Volumes/external/projects/AiImageGeneration",
+      "canonical": "variation-execution",
+      "kind": "route"
+    },
+    {
+      "project": "AiImageGeneration",
+      "sourceKey": "gap-no-payment-processing-surface-beyond-str",
+      "source": "/Volumes/external/projects/AiImageGeneration",
+      "canonical": "payment-processing-surface-beyond-str",
+      "kind": "route"
+    },
+    {
+      "project": "AiImageGeneration",
+      "sourceKey": "gap-no-image-marketplace-royalty-tracking",
+      "source": "/Volumes/external/projects/AiImageGeneration",
+      "canonical": "image-marketplace-royalty-tracking",
+      "kind": "route"
+    },
+    {
+      "project": "AiImageGeneration",
+      "sourceKey": "gap-no-collaboration-shared-workspaces",
+      "source": "/Volumes/external/projects/AiImageGeneration",
+      "canonical": "collaboration-shared-workspaces",
+      "kind": "route"
+    },
+    {
+      "project": "AiImageGeneration",
+      "sourceKey": "gap-no-public-profileportfolio-pages",
+      "source": "/Volumes/external/projects/AiImageGeneration",
+      "canonical": "public-profileportfolio-pages",
+      "kind": "route"
+    },
+    {
+      "project": "AiImageGeneration",
+      "sourceKey": "gap-no-webhook-surface",
+      "source": "/Volumes/external/projects/AiImageGeneration",
+      "canonical": "webhook-surface",
+      "kind": "route"
+    },
+    {
+      "project": "AiImageGeneration",
+      "sourceKey": "prompt-ip-similarity-checker",
+      "source": "/Volumes/external/projects/AiImageGeneration",
+      "canonical": "prompt-ip-similarity-checker",
+      "kind": "route"
+    },
+    {
+      "project": "AiInteriorDesign",
+      "sourceKey": "/designs",
+      "source": "/Volumes/external/projects/AiInteriorDesign/frontend/src/App.jsx",
+      "canonical": "designs",
+      "kind": "definition"
+    },
+    {
+      "project": "AiInteriorDesign",
+      "sourceKey": "/styles",
+      "source": "/Volumes/external/projects/AiInteriorDesign/frontend/src/App.jsx",
+      "canonical": "styles",
+      "kind": "definition"
+    },
+    {
+      "project": "AiInteriorDesign",
+      "sourceKey": "/furniture",
+      "source": "/Volumes/external/projects/AiInteriorDesign/frontend/src/App.jsx",
+      "canonical": "furniture",
+      "kind": "definition"
+    },
+    {
+      "project": "AiInteriorDesign",
+      "sourceKey": "/palettes",
+      "source": "/Volumes/external/projects/AiInteriorDesign/frontend/src/App.jsx",
+      "canonical": "palettes",
+      "kind": "definition"
+    },
+    {
+      "project": "AiInteriorDesign",
+      "sourceKey": "/ar",
+      "source": "/Volumes/external/projects/AiInteriorDesign/frontend/src/App.jsx",
+      "canonical": "ar",
+      "kind": "definition"
+    },
+    {
+      "project": "AiInteriorDesign",
+      "sourceKey": "/shopping",
+      "source": "/Volumes/external/projects/AiInteriorDesign/frontend/src/App.jsx",
+      "canonical": "shopping",
+      "kind": "definition"
+    },
+    {
+      "project": "AiInteriorDesign",
+      "sourceKey": "/inspirations",
+      "source": "/Volumes/external/projects/AiInteriorDesign/frontend/src/App.jsx",
+      "canonical": "inspirations",
+      "kind": "definition"
+    },
+    {
+      "project": "AiInteriorDesign",
+      "sourceKey": "/materials",
+      "source": "/Volumes/external/projects/AiInteriorDesign/frontend/src/App.jsx",
+      "canonical": "materials",
+      "kind": "definition"
+    },
+    {
+      "project": "AiInteriorDesign",
+      "sourceKey": "/subscription",
+      "source": "/Volumes/external/projects/AiInteriorDesign/frontend/src/App.jsx",
+      "canonical": "subscription",
+      "kind": "definition"
+    },
+    {
+      "project": "AiInteriorDesign",
+      "sourceKey": "pass5-tools",
+      "source": "/Volumes/external/projects/AiInteriorDesign",
+      "canonical": "pass5-tools",
+      "kind": "route"
+    },
+    {
+      "project": "AiInteriorDesign",
+      "sourceKey": "cf-agentic-design-consultant-generating-cus",
+      "source": "/Volumes/external/projects/AiInteriorDesign",
+      "canonical": "agentic-design-consultant-generating-cus",
+      "kind": "route"
+    },
+    {
+      "project": "AiInteriorDesign",
+      "sourceKey": "cf-room-layout-optimization-considering-tra",
+      "source": "/Volumes/external/projects/AiInteriorDesign",
+      "canonical": "room-layout-optimization-considering-tra",
+      "kind": "route"
+    },
+    {
+      "project": "AiInteriorDesign",
+      "sourceKey": "cf-sustainability-scoring-tracking-carbon-f",
+      "source": "/Volumes/external/projects/AiInteriorDesign",
+      "canonical": "sustainability-scoring-tracking-carbon-f",
+      "kind": "route"
+    },
+    {
+      "project": "AiInteriorDesign",
+      "sourceKey": "cf-virtual-vr3d-walkthrough-for-immersive-v",
+      "source": "/Volumes/external/projects/AiInteriorDesign",
+      "canonical": "virtual-vr3d-walkthrough-for-immersive-v",
+      "kind": "route"
+    },
+    {
+      "project": "AiInteriorDesign",
+      "sourceKey": "cf-design-cost-prediction-across-furniture-",
+      "source": "/Volumes/external/projects/AiInteriorDesign",
+      "canonical": "design-cost-prediction-across-furniture",
+      "kind": "route"
+    },
+    {
+      "project": "AiInteriorDesign",
+      "sourceKey": "cf-trend-style-prediction-for-early-adoptio",
+      "source": "/Volumes/external/projects/AiInteriorDesign",
+      "canonical": "trend-style-prediction-for-early-adoptio",
+      "kind": "route"
+    },
+    {
+      "project": "AiInteriorDesign",
+      "sourceKey": "gap-no-trend-forecaster-endpoint",
+      "source": "/Volumes/external/projects/AiInteriorDesign",
+      "canonical": "trend-forecaster-endpoint",
+      "kind": "route"
+    },
+    {
+      "project": "AiInteriorDesign",
+      "sourceKey": "gap-no-room-layout-optimizer",
+      "source": "/Volumes/external/projects/AiInteriorDesign",
+      "canonical": "room-layout-optimizer",
+      "kind": "route"
+    },
+    {
+      "project": "AiInteriorDesign",
+      "sourceKey": "gap-no-accessibility-recommender",
+      "source": "/Volumes/external/projects/AiInteriorDesign",
+      "canonical": "accessibility-recommender",
+      "kind": "route"
+    },
+    {
+      "project": "AiInteriorDesign",
+      "sourceKey": "gap-no-sustainability-scoring-ai",
+      "source": "/Volumes/external/projects/AiInteriorDesign",
+      "canonical": "sustainability-scoring-ai",
+      "kind": "route"
+    },
+    {
+      "project": "AiInteriorDesign",
+      "sourceKey": "gap-live-vendorcontractor-integrations-still",
+      "source": "/Volumes/external/projects/AiInteriorDesign",
+      "canonical": "live-vendorcontractor-integrations-still",
+      "kind": "route"
+    },
+    {
+      "project": "AiInteriorDesign",
+      "sourceKey": "gap-no-native-ar-mobile-app-only",
+      "source": "/Volumes/external/projects/AiInteriorDesign",
+      "canonical": "native-ar-mobile-app-only",
+      "kind": "route"
+    },
+    {
+      "project": "AiInteriorDesign",
+      "sourceKey": "gap-no-3d-model-library-expansion-beyond",
+      "source": "/Volumes/external/projects/AiInteriorDesign",
+      "canonical": "3d-model-library-expansion-beyond",
+      "kind": "route"
+    },
+    {
+      "project": "AiInteriorDesign",
+      "sourceKey": "gap-no-notifications-module-0-references",
+      "source": "/Volumes/external/projects/AiInteriorDesign",
+      "canonical": "notifications-module-0-references",
+      "kind": "route"
+    },
+    {
+      "project": "AiInteriorDesign",
+      "sourceKey": "gap-no-webhook-surface",
+      "source": "/Volumes/external/projects/AiInteriorDesign",
+      "canonical": "webhook-surface",
+      "kind": "route"
+    },
+    {
+      "project": "AiInteriorDesign",
+      "sourceKey": "gap-no-file-upload-pipeline-for-floor",
+      "source": "/Volumes/external/projects/AiInteriorDesign",
+      "canonical": "file-upload-pipeline-for-floor",
+      "kind": "route"
+    },
+    {
+      "project": "AiInteriorDesign",
+      "sourceKey": "design-code-compliance",
+      "source": "/Volumes/external/projects/AiInteriorDesign",
+      "canonical": "design-code-compliance",
+      "kind": "route"
+    },
+    {
+      "project": "AILogoBrandKitGenerator",
+      "sourceKey": "AILogoBrandKitGenerator",
+      "source": "/Volumes/external/projects/AILogoBrandKitGenerator",
+      "canonical": "ailogo-brand-kit-generator",
+      "kind": "source-workflow"
+    },
+    {
+      "project": "AIPersonalStylist",
+      "sourceKey": "My Wardrobe",
+      "source": "/Volumes/external/projects/AIPersonalStylist/frontend/src/config/features.js",
+      "canonical": "my-wardrobe",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPersonalStylist",
+      "sourceKey": "Outfit Ideas",
+      "source": "/Volumes/external/projects/AIPersonalStylist/frontend/src/config/features.js",
+      "canonical": "outfit-ideas",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPersonalStylist",
+      "sourceKey": "Style Profile",
+      "source": "/Volumes/external/projects/AIPersonalStylist/frontend/src/config/features.js",
+      "canonical": "style-profile",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPersonalStylist",
+      "sourceKey": "Occasion Planner",
+      "source": "/Volumes/external/projects/AIPersonalStylist/frontend/src/config/features.js",
+      "canonical": "occasion-planner",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPersonalStylist",
+      "sourceKey": "Color Analysis",
+      "source": "/Volumes/external/projects/AIPersonalStylist/frontend/src/config/features.js",
+      "canonical": "color-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPersonalStylist",
+      "sourceKey": "Trend Tracker",
+      "source": "/Volumes/external/projects/AIPersonalStylist/frontend/src/config/features.js",
+      "canonical": "trend-tracker",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPersonalStylist",
+      "sourceKey": "Shopping List",
+      "source": "/Volumes/external/projects/AIPersonalStylist/frontend/src/config/features.js",
+      "canonical": "shopping-list",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPersonalStylist",
+      "sourceKey": "Outfit Calendar",
+      "source": "/Volumes/external/projects/AIPersonalStylist/frontend/src/config/features.js",
+      "canonical": "outfit-calendar",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPersonalStylist",
+      "sourceKey": "Style Boards",
+      "source": "/Volumes/external/projects/AIPersonalStylist/frontend/src/config/features.js",
+      "canonical": "style-boards",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPersonalStylist",
+      "sourceKey": "Clothing Care",
+      "source": "/Volumes/external/projects/AIPersonalStylist/frontend/src/config/features.js",
+      "canonical": "clothing-care",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPersonalStylist",
+      "sourceKey": "Fashion Budget",
+      "source": "/Volumes/external/projects/AIPersonalStylist/frontend/src/config/features.js",
+      "canonical": "fashion-budget",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPersonalStylist",
+      "sourceKey": "Seasonal Wardrobe",
+      "source": "/Volumes/external/projects/AIPersonalStylist/frontend/src/config/features.js",
+      "canonical": "seasonal-wardrobe",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPersonalStylist",
+      "sourceKey": "Mix & Match",
+      "source": "/Volumes/external/projects/AIPersonalStylist/frontend/src/config/features.js",
+      "canonical": "mix-match",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPersonalStylist",
+      "sourceKey": "Style Quiz",
+      "source": "/Volumes/external/projects/AIPersonalStylist/frontend/src/config/features.js",
+      "canonical": "style-quiz",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPersonalStylist",
+      "sourceKey": "Fashion Feed",
+      "source": "/Volumes/external/projects/AIPersonalStylist/frontend/src/config/features.js",
+      "canonical": "fashion-feed",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPersonalStylist",
+      "sourceKey": "shopping",
+      "source": "/Volumes/external/projects/AIPersonalStylist/frontend/src/pages/AIRecommendationsPage.jsx",
+      "canonical": "shopping",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPersonalStylist",
+      "sourceKey": "trend",
+      "source": "/Volumes/external/projects/AIPersonalStylist/frontend/src/pages/AIRecommendationsPage.jsx",
+      "canonical": "trend",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPersonalStylist",
+      "sourceKey": "occasion",
+      "source": "/Volumes/external/projects/AIPersonalStylist/frontend/src/pages/AIRecommendationsPage.jsx",
+      "canonical": "occasion",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPersonalStylist",
+      "sourceKey": "sustain",
+      "source": "/Volumes/external/projects/AIPersonalStylist/frontend/src/pages/AIRecommendationsPage.jsx",
+      "canonical": "sustain",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPersonalStylist",
+      "sourceKey": "capsule",
+      "source": "/Volumes/external/projects/AIPersonalStylist/frontend/src/pages/AIRecommendationsPage.jsx",
+      "canonical": "capsule",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPersonalStylist",
+      "sourceKey": "packing",
+      "source": "/Volumes/external/projects/AIPersonalStylist/frontend/src/pages/AIRecommendationsPage.jsx",
+      "canonical": "packing",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPersonalStylist",
+      "sourceKey": "bodytype",
+      "source": "/Volumes/external/projects/AIPersonalStylist/frontend/src/pages/AIRecommendationsPage.jsx",
+      "canonical": "bodytype",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPersonalStylist",
+      "sourceKey": "photo",
+      "source": "/Volumes/external/projects/AIPersonalStylist/frontend/src/pages/AIRecommendationsPage.jsx",
+      "canonical": "photo",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPersonalStylist",
+      "sourceKey": "artryon",
+      "source": "/Volumes/external/projects/AIPersonalStylist/frontend/src/pages/AIRecommendationsPage.jsx",
+      "canonical": "artryon",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPersonalStylist",
+      "sourceKey": "social",
+      "source": "/Volumes/external/projects/AIPersonalStylist/frontend/src/pages/AIRecommendationsPage.jsx",
+      "canonical": "social",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPersonalStylist",
+      "sourceKey": "retailer",
+      "source": "/Volumes/external/projects/AIPersonalStylist/frontend/src/pages/AIRecommendationsPage.jsx",
+      "canonical": "retailer",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPersonalStylist",
+      "sourceKey": "outfit-generator",
+      "source": "/Volumes/external/projects/AIPersonalStylist",
+      "canonical": "outfit-generator",
+      "kind": "route"
+    },
+    {
+      "project": "AIPersonalStylist",
+      "sourceKey": "seasonal-analysis",
+      "source": "/Volumes/external/projects/AIPersonalStylist",
+      "canonical": "seasonal-analysis",
+      "kind": "route"
+    },
+    {
+      "project": "AIPersonalStylist",
+      "sourceKey": "style-profile-wizard",
+      "source": "/Volumes/external/projects/AIPersonalStylist",
+      "canonical": "style-profile-wizard",
+      "kind": "route"
+    },
+    {
+      "project": "AIPersonalStylist",
+      "sourceKey": "cost-per-wear",
+      "source": "/Volumes/external/projects/AIPersonalStylist",
+      "canonical": "cost-per-wear",
+      "kind": "route"
+    },
+    {
+      "project": "AIPersonalStylist",
+      "sourceKey": "wardrobe-photo",
+      "source": "/Volumes/external/projects/AIPersonalStylist",
+      "canonical": "wardrobe-photo",
+      "kind": "route"
+    },
+    {
+      "project": "AIPersonalStylist",
+      "sourceKey": "ai-recommendations",
+      "source": "/Volumes/external/projects/AIPersonalStylist",
+      "canonical": "recommendations",
+      "kind": "route"
+    },
+    {
+      "project": "AIPersonalStylist",
+      "sourceKey": "cf-photo-based-outfit-generation",
+      "source": "/Volumes/external/projects/AIPersonalStylist",
+      "canonical": "photo-based-outfit-generation",
+      "kind": "route"
+    },
+    {
+      "project": "AIPersonalStylist",
+      "sourceKey": "cf-shopping-advisor",
+      "source": "/Volumes/external/projects/AIPersonalStylist",
+      "canonical": "shopping-advisor",
+      "kind": "route"
+    },
+    {
+      "project": "AIPersonalStylist",
+      "sourceKey": "cf-sustainability-tracking",
+      "source": "/Volumes/external/projects/AIPersonalStylist",
+      "canonical": "sustainability-tracking",
+      "kind": "route"
+    },
+    {
+      "project": "AIPersonalStylist",
+      "sourceKey": "cf-occasion-specific-styling",
+      "source": "/Volumes/external/projects/AIPersonalStylist",
+      "canonical": "occasion-specific-styling",
+      "kind": "route"
+    },
+    {
+      "project": "AIPersonalStylist",
+      "sourceKey": "cf-social-style-collab",
+      "source": "/Volumes/external/projects/AIPersonalStylist",
+      "canonical": "social-style-collab",
+      "kind": "route"
+    },
+    {
+      "project": "AIPersonalStylist",
+      "sourceKey": "gap-the-aiadvanced-js-and-ai-js-stubs-need-real-implem",
+      "source": "/Volumes/external/projects/AIPersonalStylist",
+      "canonical": "the-aiadvanced-js-and-ai-js-stubs-need-real-implem",
+      "kind": "route"
+    },
+    {
+      "project": "AIPersonalStylist",
+      "sourceKey": "gap-trends-without-trend",
+      "source": "/Volumes/external/projects/AIPersonalStylist",
+      "canonical": "trends-without-trend",
+      "kind": "route"
+    },
+    {
+      "project": "AIPersonalStylist",
+      "sourceKey": "gap-occasions-without-occasion",
+      "source": "/Volumes/external/projects/AIPersonalStylist",
+      "canonical": "occasions-without-occasion",
+      "kind": "route"
+    },
+    {
+      "project": "AIPersonalStylist",
+      "sourceKey": "gap-color-analysis-without-skin",
+      "source": "/Volumes/external/projects/AIPersonalStylist",
+      "canonical": "color-analysis-without-skin",
+      "kind": "route"
+    },
+    {
+      "project": "AIPersonalStylist",
+      "sourceKey": "gap-no-body-type-size-tracking-for-better-fit-recommen",
+      "source": "/Volumes/external/projects/AIPersonalStylist",
+      "canonical": "body-type-size-tracking-for-better-fit-recommen",
+      "kind": "route"
+    },
+    {
+      "project": "AIPersonalStylist",
+      "sourceKey": "gap-no-shopping-integration-link-to-retailer-apis-pric",
+      "source": "/Volumes/external/projects/AIPersonalStylist",
+      "canonical": "shopping-integration-link-to-retailer-apis-pric",
+      "kind": "route"
+    },
+    {
+      "project": "AIPersonalStylist",
+      "sourceKey": "gap-no-virtual-try",
+      "source": "/Volumes/external/projects/AIPersonalStylist",
+      "canonical": "virtual-try",
+      "kind": "route"
+    },
+    {
+      "project": "AIPersonalStylist",
+      "sourceKey": "gap-limited-social-features-sharing-outfits-style-insp",
+      "source": "/Volumes/external/projects/AIPersonalStylist",
+      "canonical": "limited-social-features-sharing-outfits-style-insp",
+      "kind": "route"
+    },
+    {
+      "project": "AIPersonalStylist",
+      "sourceKey": "gap-no-notifications-layer-grep-0",
+      "source": "/Volumes/external/projects/AIPersonalStylist",
+      "canonical": "notifications-layer-grep-0",
+      "kind": "route"
+    },
+    {
+      "project": "AIPersonalStylist",
+      "sourceKey": "gap-no-webhooks",
+      "source": "/Volumes/external/projects/AIPersonalStylist",
+      "canonical": "webhooks",
+      "kind": "route"
+    },
+    {
+      "project": "AIPersonalStylist",
+      "sourceKey": "gap-only-9-frontend-pages-despite-20-routes",
+      "source": "/Volumes/external/projects/AIPersonalStylist",
+      "canonical": "only-9-frontend-pages-despite-20-routes",
+      "kind": "route"
+    },
+    {
+      "project": "AIPersonalWardrobeOrganizer",
+      "sourceKey": "cf-outfit-orchestration-agent",
+      "source": "/Volumes/external/projects/AIPersonalWardrobeOrganizer",
+      "canonical": "outfit-orchestration-agent",
+      "kind": "route"
+    },
+    {
+      "project": "AIPersonalWardrobeOrganizer",
+      "sourceKey": "cf-computer-vision-closet-audit",
+      "source": "/Volumes/external/projects/AIPersonalWardrobeOrganizer",
+      "canonical": "computer-vision-closet-audit",
+      "kind": "route"
+    },
+    {
+      "project": "AIPersonalWardrobeOrganizer",
+      "sourceKey": "cf-shopping-synergy",
+      "source": "/Volumes/external/projects/AIPersonalWardrobeOrganizer",
+      "canonical": "shopping-synergy",
+      "kind": "route"
+    },
+    {
+      "project": "AIPersonalWardrobeOrganizer",
+      "sourceKey": "cf-seasonal-rotation-automation",
+      "source": "/Volumes/external/projects/AIPersonalWardrobeOrganizer",
+      "canonical": "seasonal-rotation-automation",
+      "kind": "route"
+    },
+    {
+      "project": "AIPersonalWardrobeOrganizer",
+      "sourceKey": "cf-travel-capsule-builder",
+      "source": "/Volumes/external/projects/AIPersonalWardrobeOrganizer",
+      "canonical": "travel-capsule-builder",
+      "kind": "route"
+    },
+    {
+      "project": "AIPersonalWardrobeOrganizer",
+      "sourceKey": "gap-wear",
+      "source": "/Volumes/external/projects/AIPersonalWardrobeOrganizer",
+      "canonical": "wear",
+      "kind": "route"
+    },
+    {
+      "project": "AIPersonalWardrobeOrganizer",
+      "sourceKey": "gap-packing",
+      "source": "/Volumes/external/projects/AIPersonalWardrobeOrganizer",
+      "canonical": "packing",
+      "kind": "route"
+    },
+    {
+      "project": "AIPersonalWardrobeOrganizer",
+      "sourceKey": "gap-no-size-fit-tracking-for-new-purchase-recommendati",
+      "source": "/Volumes/external/projects/AIPersonalWardrobeOrganizer",
+      "canonical": "size-fit-tracking-for-new-purchase-recommendati",
+      "kind": "route"
+    },
+    {
+      "project": "AIPersonalWardrobeOrganizer",
+      "sourceKey": "gap-no-shopping-integration",
+      "source": "/Volumes/external/projects/AIPersonalWardrobeOrganizer",
+      "canonical": "shopping-integration",
+      "kind": "route"
+    },
+    {
+      "project": "AIPersonalWardrobeOrganizer",
+      "sourceKey": "gap-no-social-sharing-outfit-inspiration",
+      "source": "/Volumes/external/projects/AIPersonalWardrobeOrganizer",
+      "canonical": "social-sharing-outfit-inspiration",
+      "kind": "route"
+    },
+    {
+      "project": "AIPersonalWardrobeOrganizer",
+      "sourceKey": "gap-limited-travel-features-only-packing-lists",
+      "source": "/Volumes/external/projects/AIPersonalWardrobeOrganizer",
+      "canonical": "limited-travel-features-only-packing-lists",
+      "kind": "route"
+    },
+    {
+      "project": "AIPersonalWardrobeOrganizer",
+      "sourceKey": "gap-limited-notifications-layer-1-mention",
+      "source": "/Volumes/external/projects/AIPersonalWardrobeOrganizer",
+      "canonical": "limited-notifications-layer-1-mention",
+      "kind": "route"
+    },
+    {
+      "project": "AIPersonalWardrobeOrganizer",
+      "sourceKey": "gap-no-webhooks",
+      "source": "/Volumes/external/projects/AIPersonalWardrobeOrganizer",
+      "canonical": "webhooks",
+      "kind": "route"
+    },
+    {
+      "project": "AIPersonalWardrobeOrganizer",
+      "sourceKey": "gap-no-mobile-app",
+      "source": "/Volumes/external/projects/AIPersonalWardrobeOrganizer",
+      "canonical": "mobile-app",
+      "kind": "route"
+    },
+    {
+      "project": "AIPersonalWardrobeOrganizer",
+      "sourceKey": "gap-only-8-frontend-pages",
+      "source": "/Volumes/external/projects/AIPersonalWardrobeOrganizer",
+      "canonical": "only-8-frontend-pages",
+      "kind": "route"
+    },
+    {
+      "project": "AIPersonalWardrobeOrganizer",
+      "sourceKey": "wardrobe",
+      "source": "/Volumes/external/projects/AIPersonalWardrobeOrganizer",
+      "canonical": "wardrobe",
+      "kind": "route"
+    },
+    {
+      "project": "AIPersonalWardrobeOrganizer",
+      "sourceKey": "outfits",
+      "source": "/Volumes/external/projects/AIPersonalWardrobeOrganizer",
+      "canonical": "outfits",
+      "kind": "route"
+    },
+    {
+      "project": "AIPersonalWardrobeOrganizer",
+      "sourceKey": "wear-log",
+      "source": "/Volumes/external/projects/AIPersonalWardrobeOrganizer",
+      "canonical": "wear-log",
+      "kind": "route"
+    },
+    {
+      "project": "AIPersonalWardrobeOrganizer",
+      "sourceKey": "packing-lists",
+      "source": "/Volumes/external/projects/AIPersonalWardrobeOrganizer",
+      "canonical": "packing-lists",
+      "kind": "route"
+    },
+    {
+      "project": "AIPersonalWardrobeOrganizer",
+      "sourceKey": "ai-insights",
+      "source": "/Volumes/external/projects/AIPersonalWardrobeOrganizer",
+      "canonical": "insights",
+      "kind": "route"
+    },
+    {
+      "project": "AIProductPhotoEnhancer",
+      "sourceKey": "/products",
+      "source": "/Volumes/external/projects/AIProductPhotoEnhancer/frontend/src/components/Layout.jsx",
+      "canonical": "products",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductPhotoEnhancer",
+      "sourceKey": "/photo-analysis",
+      "source": "/Volumes/external/projects/AIProductPhotoEnhancer/frontend/src/components/Layout.jsx",
+      "canonical": "photo-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductPhotoEnhancer",
+      "sourceKey": "/batch-analysis",
+      "source": "/Volumes/external/projects/AIProductPhotoEnhancer/frontend/src/components/Layout.jsx",
+      "canonical": "batch-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductPhotoEnhancer",
+      "sourceKey": "/background-removal",
+      "source": "/Volumes/external/projects/AIProductPhotoEnhancer/frontend/src/components/Layout.jsx",
+      "canonical": "background-removal",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductPhotoEnhancer",
+      "sourceKey": "/enhancements",
+      "source": "/Volumes/external/projects/AIProductPhotoEnhancer/frontend/src/components/Layout.jsx",
+      "canonical": "enhancements",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductPhotoEnhancer",
+      "sourceKey": "/lifestyle-shots",
+      "source": "/Volumes/external/projects/AIProductPhotoEnhancer/frontend/src/components/Layout.jsx",
+      "canonical": "lifestyle-shots",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductPhotoEnhancer",
+      "sourceKey": "/color-analysis",
+      "source": "/Volumes/external/projects/AIProductPhotoEnhancer/frontend/src/components/Layout.jsx",
+      "canonical": "color-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductPhotoEnhancer",
+      "sourceKey": "/quality-assessment",
+      "source": "/Volumes/external/projects/AIProductPhotoEnhancer/frontend/src/components/Layout.jsx",
+      "canonical": "quality-assessment",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductPhotoEnhancer",
+      "sourceKey": "/product-descriptions",
+      "source": "/Volumes/external/projects/AIProductPhotoEnhancer/frontend/src/components/Layout.jsx",
+      "canonical": "product-descriptions",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductPhotoEnhancer",
+      "sourceKey": "/size-reference",
+      "source": "/Volumes/external/projects/AIProductPhotoEnhancer/frontend/src/components/Layout.jsx",
+      "canonical": "size-reference",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductPhotoEnhancer",
+      "sourceKey": "/view-360",
+      "source": "/Volumes/external/projects/AIProductPhotoEnhancer/frontend/src/components/Layout.jsx",
+      "canonical": "view-360",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductPhotoEnhancer",
+      "sourceKey": "/size-recommender",
+      "source": "/Volumes/external/projects/AIProductPhotoEnhancer/frontend/src/components/Layout.jsx",
+      "canonical": "size-recommender",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductPhotoEnhancer",
+      "sourceKey": "/gift-suggester",
+      "source": "/Volumes/external/projects/AIProductPhotoEnhancer/frontend/src/components/Layout.jsx",
+      "canonical": "gift-suggester",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductPhotoEnhancer",
+      "sourceKey": "/return-predictor",
+      "source": "/Volumes/external/projects/AIProductPhotoEnhancer/frontend/src/components/Layout.jsx",
+      "canonical": "return-predictor",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductPhotoEnhancer",
+      "sourceKey": "/photo-views",
+      "source": "/Volumes/external/projects/AIProductPhotoEnhancer/frontend/src/components/Layout.jsx",
+      "canonical": "photo-views",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductPhotoEnhancer",
+      "sourceKey": "/product-descriptions",
+      "source": "/Volumes/external/projects/AIProductPhotoEnhancer/frontend/src/pages/Dashboard.jsx",
+      "canonical": "product-descriptions",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductPhotoEnhancer",
+      "sourceKey": "cf-ai-photo-enhancement-pipeline",
+      "source": "/Volumes/external/projects/AIProductPhotoEnhancer",
+      "canonical": "ai-photo-enhancement-pipeline",
+      "kind": "route"
+    },
+    {
+      "project": "AIProductPhotoEnhancer",
+      "sourceKey": "cf-computer-vision-product-sizing",
+      "source": "/Volumes/external/projects/AIProductPhotoEnhancer",
+      "canonical": "computer-vision-product-sizing",
+      "kind": "route"
+    },
+    {
+      "project": "AIProductPhotoEnhancer",
+      "sourceKey": "cf-return-risk-prediction",
+      "source": "/Volumes/external/projects/AIProductPhotoEnhancer",
+      "canonical": "return-risk-prediction",
+      "kind": "route"
+    },
+    {
+      "project": "AIProductPhotoEnhancer",
+      "sourceKey": "cf-multi-variant-generation",
+      "source": "/Volumes/external/projects/AIProductPhotoEnhancer",
+      "canonical": "multi-variant-generation",
+      "kind": "route"
+    },
+    {
+      "project": "AIProductPhotoEnhancer",
+      "sourceKey": "cf-competitive-visual-intelligence",
+      "source": "/Volumes/external/projects/AIProductPhotoEnhancer",
+      "canonical": "competitive-visual-intelligence",
+      "kind": "route"
+    },
+    {
+      "project": "AIProductPhotoEnhancer",
+      "sourceKey": "gap-all-the-ai",
+      "source": "/Volumes/external/projects/AIProductPhotoEnhancer",
+      "canonical": "all-the-ai",
+      "kind": "route"
+    },
+    {
+      "project": "AIProductPhotoEnhancer",
+      "sourceKey": "gap-no-auto",
+      "source": "/Volumes/external/projects/AIProductPhotoEnhancer",
+      "canonical": "auto",
+      "kind": "route"
+    },
+    {
+      "project": "AIProductPhotoEnhancer",
+      "sourceKey": "gap-no-competitor",
+      "source": "/Volumes/external/projects/AIProductPhotoEnhancer",
+      "canonical": "competitor",
+      "kind": "route"
+    },
+    {
+      "project": "AIProductPhotoEnhancer",
+      "sourceKey": "gap-no-integration-with-e",
+      "source": "/Volumes/external/projects/AIProductPhotoEnhancer",
+      "canonical": "integration-with-e",
+      "kind": "route"
+    },
+    {
+      "project": "AIProductPhotoEnhancer",
+      "sourceKey": "gap-no-batch-processing-endpoint-single",
+      "source": "/Volumes/external/projects/AIProductPhotoEnhancer",
+      "canonical": "batch-processing-endpoint-single",
+      "kind": "route"
+    },
+    {
+      "project": "AIProductPhotoEnhancer",
+      "sourceKey": "gap-no-integration-with-image-cdn-delivery-optimizatio",
+      "source": "/Volumes/external/projects/AIProductPhotoEnhancer",
+      "canonical": "integration-with-image-cdn-delivery-optimizatio",
+      "kind": "route"
+    },
+    {
+      "project": "AIProductPhotoEnhancer",
+      "sourceKey": "gap-limited-analytics-photo-performance-tracking",
+      "source": "/Volumes/external/projects/AIProductPhotoEnhancer",
+      "canonical": "limited-analytics-photo-performance-tracking",
+      "kind": "route"
+    },
+    {
+      "project": "AIProductPhotoEnhancer",
+      "sourceKey": "gap-no-notifications-module-grep-0",
+      "source": "/Volumes/external/projects/AIProductPhotoEnhancer",
+      "canonical": "notifications-module-grep-0",
+      "kind": "route"
+    },
+    {
+      "project": "AIProductPhotoEnhancer",
+      "sourceKey": "gap-no-webhooks-for-image",
+      "source": "/Volumes/external/projects/AIProductPhotoEnhancer",
+      "canonical": "webhooks-for-image",
+      "kind": "route"
+    }
+  ],
+  "ignored": [
+    {
+      "project": "AI3DSpatial",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AI3DSpatial",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AI3DSpatial",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AI3DSpatial",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AI3DSpatial",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AI3DSpatial",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AI3DSpatial",
+      "key": "login",
+      "source": "/Volumes/external/projects/AI3DSpatial",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AI3DSpatial",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AI3DSpatial",
+      "key": "/feature/:featureKey",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIFashionDesigner",
+      "key": "history",
+      "source": "/Volumes/external/projects/AIFashionDesigner/frontend/src/pages/Dashboard.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIFashionDesigner",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIFashionDesigner",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIFashionDesigner",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIFashionDesigner",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIFashionDesigner",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIFashionDesigner",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIFashionDesigner",
+      "key": "batch03",
+      "source": "/Volumes/external/projects/AIFashionDesigner",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIFashionDesigner",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIFashionDesigner",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIFashionDesigner",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/AIFashionDesigner",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIFashionDesigner",
+      "key": "/feature/:featureId",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIFashionDesigner",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIFashionDesigner",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIFashionDesigner",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiImageGeneration",
+      "key": "/",
+      "source": "/Volumes/external/projects/AiImageGeneration/frontend/src/components/Sidebar.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiImageGeneration",
+      "key": "/history",
+      "source": "/Volumes/external/projects/AiImageGeneration/frontend/src/components/Sidebar.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiImageGeneration",
+      "key": "/custom-views",
+      "source": "/Volumes/external/projects/AiImageGeneration/frontend/src/components/Sidebar.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiImageGeneration",
+      "key": "/profile",
+      "source": "/Volumes/external/projects/AiImageGeneration/frontend/src/components/Sidebar.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiImageGeneration",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AiImageGeneration",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiImageGeneration",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AiImageGeneration",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiImageGeneration",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AiImageGeneration",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiImageGeneration",
+      "key": "login",
+      "source": "/Volumes/external/projects/AiImageGeneration",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiImageGeneration",
+      "key": "register",
+      "source": "/Volumes/external/projects/AiImageGeneration",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiImageGeneration",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiImageGeneration",
+      "key": "/gallery/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiImageGeneration",
+      "key": "/prompts/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiImageGeneration",
+      "key": "/styles/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiImageGeneration",
+      "key": "history",
+      "source": "/Volumes/external/projects/AiImageGeneration",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiImageGeneration",
+      "key": "/history/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiImageGeneration",
+      "key": "profile",
+      "source": "/Volumes/external/projects/AiImageGeneration",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiImageGeneration",
+      "key": "/prompt-optimizer/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiImageGeneration",
+      "key": "/art-instructor/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiImageGeneration",
+      "key": "/style-transfer/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiImageGeneration",
+      "key": "/upscaler/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiImageGeneration",
+      "key": "/variation-generator/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiImageGeneration",
+      "key": "/brand-asset-creator/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiImageGeneration",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AiImageGeneration",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiInteriorDesign",
+      "key": "/",
+      "source": "/Volumes/external/projects/AiInteriorDesign/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiInteriorDesign",
+      "key": "/ai-tools",
+      "source": "/Volumes/external/projects/AiInteriorDesign/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiInteriorDesign",
+      "key": "/custom-views",
+      "source": "/Volumes/external/projects/AiInteriorDesign/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiInteriorDesign",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiInteriorDesign",
+      "key": "ai-tools",
+      "source": "/Volumes/external/projects/AiInteriorDesign",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiInteriorDesign",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AiInteriorDesign",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiInteriorDesign",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AiInteriorDesign",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiInteriorDesign",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AiInteriorDesign",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiInteriorDesign",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AiInteriorDesign",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiInteriorDesign",
+      "key": "login",
+      "source": "/Volumes/external/projects/AiInteriorDesign",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiInteriorDesign",
+      "key": "/designs/new",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiInteriorDesign",
+      "key": "/designs/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiInteriorDesign",
+      "key": "/styles/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiInteriorDesign",
+      "key": "/furniture/new",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiInteriorDesign",
+      "key": "/furniture/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiInteriorDesign",
+      "key": "/palettes/new",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiInteriorDesign",
+      "key": "/palettes/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiInteriorDesign",
+      "key": "advanced-ai",
+      "source": "/Volumes/external/projects/AiInteriorDesign",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiInteriorDesign",
+      "key": "/ar/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiInteriorDesign",
+      "key": "/shopping/new",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiInteriorDesign",
+      "key": "/shopping/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiInteriorDesign",
+      "key": "/inspirations/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiInteriorDesign",
+      "key": "/materials/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiInteriorDesign",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIPersonalStylist",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIPersonalStylist",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPersonalStylist",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIPersonalStylist",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPersonalStylist",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIPersonalStylist",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPersonalStylist",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIPersonalStylist",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIPersonalStylist",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPersonalStylist",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIPersonalWardrobeOrganizer",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIPersonalWardrobeOrganizer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPersonalWardrobeOrganizer",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIPersonalWardrobeOrganizer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPersonalWardrobeOrganizer",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIPersonalWardrobeOrganizer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPersonalWardrobeOrganizer",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIPersonalWardrobeOrganizer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPersonalWardrobeOrganizer",
+      "key": "register",
+      "source": "/Volumes/external/projects/AIPersonalWardrobeOrganizer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPersonalWardrobeOrganizer",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIPersonalWardrobeOrganizer",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIPersonalWardrobeOrganizer",
+      "key": "ai",
+      "source": "/Volumes/external/projects/AIPersonalWardrobeOrganizer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPersonalWardrobeOrganizer",
+      "key": "ai-advanced",
+      "source": "/Volumes/external/projects/AIPersonalWardrobeOrganizer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPersonalWardrobeOrganizer",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIPersonalWardrobeOrganizer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIProductPhotoEnhancer",
+      "key": "/dashboard",
+      "source": "/Volumes/external/projects/AIProductPhotoEnhancer/frontend/src/components/Layout.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIProductPhotoEnhancer",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIProductPhotoEnhancer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIProductPhotoEnhancer",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIProductPhotoEnhancer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIProductPhotoEnhancer",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIProductPhotoEnhancer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIProductPhotoEnhancer",
+      "key": "/*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIProductPhotoEnhancer",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIProductPhotoEnhancer",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/AIProductPhotoEnhancer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIProductPhotoEnhancer",
+      "key": "profile",
+      "source": "/Volumes/external/projects/AIProductPhotoEnhancer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    }
+  ],
+  "migrationWarnings": [
+    {
+      "project": "AILogoBrandKitGenerator",
+      "reason": "No structured web feature declarations extracted. Source-specific engine/UI migration remains required."
+    }
+  ]
+}

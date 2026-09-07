@@ -1,0 +1,11 @@
+{
+  "id": "design-platform",
+  "status": "passed",
+  "pagesVisited": 191,
+  "minimumRows": 15,
+  "browserCRUD": true,
+  "persistence": true,
+  "mobile": true,
+  "pageErrors": [],
+  "verifiedAt": "2026-09-07T14:40:43.007Z"
+}
